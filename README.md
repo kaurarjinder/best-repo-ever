@@ -1,4 +1,9 @@
 # best-repo-ever
 
 # Test Repo
-# new change 1
+<<<<<<< HEAD
+
+
+=======
+# new change 
+>>>>>>> origin/master
