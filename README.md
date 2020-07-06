@@ -1,5 +1,9 @@
 # best-repo-ever
 
 # Test Repo
+<<<<<<< HEAD
 
-# Branch -2
+
+=======
+# new change 
+>>>>>>> origin/master
